@@ -48,6 +48,6 @@ case $* in
 				rm -rf device/xioami/sdm660-*
 				rm -rf vendor/xiaomi/sdm660-*
 				sync_my_git
-				additions ;;
+				;;
 		*) existed ;;
 esac
